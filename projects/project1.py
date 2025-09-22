@@ -56,7 +56,7 @@ HTML_PAGE = """
             font-size: 20px;
             border: none;
             margin: 10px;
-            border-radius: 8px;
+            border-radius: 9px;
             cursor: pointer;
             transition: all 0.3s ease;
             background-color: #fff;
